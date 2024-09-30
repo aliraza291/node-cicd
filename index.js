@@ -6,7 +6,7 @@ const app = express();
 
 // Define a route for the root URL ("/") that responds with "Hello, World!"
 app.get("/", (req, res) => {
-  res.send("Hello Xeven Team");
+  res.send("Hello Xeven Team and Zaid");
 });
 
 // Define the port to listen on
